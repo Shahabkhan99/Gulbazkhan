@@ -1,0 +1,6 @@
+Application development
+All slandered () and non conventional modules like Payroll, Inventory, POS, GL, credit repair management, claim management, facility management system and CRM portal with custom requirements will be delivered (integrated if required) 
+Integration of existing systems with 3rd party apps (offline, online)
+WhatsApp cloud API integration in any application
+All commercial android apps (slandered, custom) with integration of complete payment cycle 
+Interactive Power BI reports & dashboards with analytical business insights with all data sources.
